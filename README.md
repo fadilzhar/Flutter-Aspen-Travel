@@ -1,6 +1,6 @@
-# flutter_aspen_travel
+# Flutter Aspen Travel
 
-A new Flutter project.
+This is a new Flutter Project for my task using Flutter
 
 ## Getting Started
 
